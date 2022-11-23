@@ -514,3 +514,5 @@ MigrationBackup/
 /model/nsmc/test/
 
 /demo-web/python/src/flagged/
+
+data
